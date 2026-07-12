@@ -25,7 +25,7 @@ The workflow of this project is divided into two main phases to ensure seamless 
   * rabbit
 * **Output Artifacts:** The trained model was exported as `keras_model.h5` along with its corresponding class index file `labels.txt`.
 
-  <img width="200" height="200" alt="لقطة شاشة 2026-07-11 215519" src="https://github.com/user-attachments/assets/80b76f29-7e2e-48dc-b946-ca79fff706b3" />       <img width="200" height="200" alt="لقطة شاشة 2026-07-11 215557" src="https://github.com/user-attachments/assets/283c63d9-7410-4a5a-857a-6f74019f1596" />        <img width="1845" height="996" alt="لقطة شاشة 2026-07-11 215459" src="https://github.com/user-attachments/assets/79b41d70-1a7d-48db-92d5-b32a79cbe0ae" />
+  <img width="200" height="200" alt="لقطة شاشة 2026-07-11 215519" src="https://github.com/user-attachments/assets/80b76f29-7e2e-48dc-b946-ca79fff706b3" />       <img width="200" height="200" alt="لقطة شاشة 2026-07-11 215557" src="https://github.com/user-attachments/assets/283c63d9-7410-4a5a-857a-6f74019f1596" />        <img width="200" height="200" alt="لقطة شاشة 2026-07-11 215459" src="https://github.com/user-attachments/assets/79b41d70-1a7d-48db-92d5-b32a79cbe0ae" />
    
 
 
