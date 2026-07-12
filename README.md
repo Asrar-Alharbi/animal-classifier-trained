@@ -20,7 +20,7 @@ The workflow of this project is divided into two main phases to ensure seamless 
 ### 1. Model Training
 * **Platform Used:** Google's Teachable Machine.
 * **Target Classes:** 
-  * `d
+  * `dog'
   * `cat`
   * `rabbit`
 * **Output Artifacts:** The trained model was exported as `keras_model.h5` along with its corresponding class index file `labels.txt`.
