@@ -1,5 +1,3 @@
-# animal-classifier-trained
-An image classification model trained via Teachable Machine and validated on Google Colab to classify dogs, cats, and rabbits with high accuracy.
 
 # 🐾 Animal Classification Model using Teachable Machine & Keras
 
@@ -27,6 +25,13 @@ The workflow of this project is divided into two main phases to ensure seamless 
   * `rabbit`
 * **Output Artifacts:** The trained model was exported as `keras_model.h5` along with its corresponding class index file `labels.txt`.
 
+  <img width="1880" height="1007" alt="لقطة شاشة 2026-07-11 215519" src="https://github.com/user-attachments/assets/80b76f29-7e2e-48dc-b946-ca79fff706b3" />
+
+<img width="1837" height="991" alt="لقطة شاشة 2026-07-11 215557" src="https://github.com/user-attachments/assets/283c63d9-7410-4a5a-857a-6f74019f1596" />
+
+<img width="1845" height="996" alt="لقطة شاشة 2026-07-11 215459" src="https://github.com/user-attachments/assets/15ba64a0-5134-429e-ac77-cd9a896c30e4" />
+
+
 ### 2. Validation on Google Colab
 The model's deployment logic was verified by uploading the Keras file into a Colab notebook and running inference using `TensorFlow` and `Pillow (PIL)`. 
 
@@ -34,11 +39,6 @@ When evaluated against a fresh test image of a dog, the model demonstrated outst
 * **Predicted Class:** `dog`
 * **Confidence Score:** `0.99996495` (~99.99% certainty)
 
----
+<img width="983" height="962" alt="image" src="https://github.com/user-attachments/assets/edb23047-c39f-4963-beb0-8c66c1271484" />
 
-## 🛠️ Installation & Usage
 
-To run the inference script locally or within your own cloud environment, ensure you have the required dependencies installed:
-
-```bash
-pip install tensorflow pillow numpy
