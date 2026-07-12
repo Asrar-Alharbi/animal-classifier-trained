@@ -1,5 +1,6 @@
 
-# 🐾 Animal Classification Model using Teachable Machine & Keras
+# 🐾 Animal Classification Model using Teachable Machine & Google Colab
+
 
 An end-to-end computer vision project focused on image classification. The model is trained to recognize and distinguish between three different animal categories (Dog, Cat, and Rabbit) using deep learning techniques. 
 
