@@ -20,16 +20,13 @@ The workflow of this project is divided into two main phases to ensure seamless 
 ### 1. Model Training
 * **Platform Used:** Google's Teachable Machine.
 * **Target Classes:** 
-  * `dog`
+  * `d
   * `cat`
   * `rabbit`
 * **Output Artifacts:** The trained model was exported as `keras_model.h5` along with its corresponding class index file `labels.txt`.
 
-  <img width="200" height="200" alt="لقطة شاشة 2026-07-11 215519" src="https://github.com/user-attachments/assets/80b76f29-7e2e-48dc-b946-ca79fff706b3" />
+  <img width="200" height="200" alt="لقطة شاشة 2026-07-11 215519" src="https://github.com/user-attachments/assets/80b76f29-7e2e-48dc-b946-ca79fff706b3" />       <img width="200" height="200" alt="لقطة شاشة 2026-07-11 215557" src="https://github.com/user-attachments/assets/283c63d9-7410-4a5a-857a-6f74019f1596" />      <img width="200" height="200" alt="لقطة شاشة 2026-07-11 215557" src="https://github.com/user-attachments/assets/283c63d9-7410-4a5a-857a-6f74019f1596" />
 
-<img width="200" height="200" alt="لقطة شاشة 2026-07-11 215557" src="https://github.com/user-attachments/assets/283c63d9-7410-4a5a-857a-6f74019f1596" />
-
-<img width="200" height="200" alt="لقطة شاشة 2026-07-11 215459" src="https://github.com/user-attachments/assets/15ba64a0-5134-429e-ac77-cd9a896c30e4" />
 
 
 ### 2. Validation on Google Colab
